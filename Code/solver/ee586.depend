@@ -1,0 +1,257 @@
+# depslib dependency file v1.0
+1511517434 source:c:\users\user\desktop\ee586\main.cpp
+	<iostream>
+	"l_puzzle.h"
+
+1516311171 h"
+
+1511505181 c:\users\user\desktop\ee586\include\l_puzzle.h
+
+1511505193 source:c:\users\user\desktop\ee586\src\l_puzzle.cpp
+	"l_puzzle.h"
+	<iostream>
+
+1516302834 
+
+1511519125 c:\users\user\desktop\ee586\l_puzzle.h
+	<iostream>
+	<list>
+
+1511519126 source:c:\users\user\desktop\ee586\l_puzzle.cpp
+	"l_puzzle.h"
+	<iostream>
+	<cstring>
+	<map>
+	<vector>
+	<map>
+
+1511536067 source:c:\users\ferhat\dropbox (personal)\ee586\l_puzzle.cpp
+	"l_puzzle.h"
+	<iostream>
+	<cstring>
+	<map>
+	<vector>
+
+1511553384 c:\users\ferhat\dropbox (personal)\ee586\l_puzzle.h
+	<iostream>
+	<list>
+
+1511536366 source:c:\users\ferhat\dropbox (personal)\ee586\main.cpp
+	<iostream>
+	<list>
+	"l_puzzle.h"
+
+1511693070 source:c:\users\ferhat\desktop\ee586\l_puzzle.cpp
+	"l_puzzle.h"
+	<iostream>
+	<cstring>
+	<map>
+	<vector>
+
+1511692880 c:\users\ferhat\desktop\ee586\l_puzzle.h
+	<iostream>
+	<list>
+	<map>
+	<vector>
+
+1511978152 source:c:\users\ferhat\desktop\ee586\main.cpp
+	<iostream>
+	"l_puzzle.h"
+	"solver.h"
+
+1511900966 c:\users\ferhat\desktop\ee586\include\l_puzzle.h
+	<iostream>
+	<list>
+	<cstring>
+	<cmath>
+	<fstream>
+
+1511897055 c:\users\ferhat\desktop\ee586\include\solver.h
+	<map>
+	<vector>
+	<list>
+	<queue>
+	<utility>
+	<algorithm>
+	<chrono>
+	<ctime>
+
+1511973464 source:c:\users\ferhat\desktop\ee586\src\solver.cpp
+	"l_puzzle.h"
+	"solver.h"
+
+1511972303 source:c:\users\ferhat\desktop\ee586\src\l_puzzle.cpp
+	"l_puzzle.h"
+
+1511700611 source:c:\users\user\dropbox\ee586th\src\l_puzzle.cpp
+	"l_puzzle.h"
+
+1511805909 c:\users\user\dropbox\ee586th\include\l_puzzle.h
+	<iostream>
+	<list>
+	<cstring>
+	<cmath>
+
+1511877954 source:c:\users\user\dropbox\ee586th\src\solver.cpp
+	"l_puzzle.h"
+	"solver.h"
+
+1511818590 c:\users\user\dropbox\ee586th\include\solver.h
+	<map>
+	<vector>
+	<list>
+	<queue>
+	<utility>
+	<chrono>
+	<ctime>
+
+1511876945 source:c:\users\user\dropbox\ee586th\main.cpp
+	<iostream>
+	"l_puzzle.h"
+	"solver.h"
+
+1511898223 source:c:\users\ferhat\dropbox (personal)\ee586th\main.cpp
+	<iostream>
+	"l_puzzle.h"
+	"solver.h"
+
+1511900966 c:\users\ferhat\dropbox (personal)\ee586th\include\l_puzzle.h
+	<iostream>
+	<list>
+	<cstring>
+	<cmath>
+	<fstream>
+
+1511897055 c:\users\ferhat\dropbox (personal)\ee586th\include\solver.h
+	<map>
+	<vector>
+	<list>
+	<queue>
+	<utility>
+	<algorithm>
+	<chrono>
+	<ctime>
+
+1511901522 source:c:\users\ferhat\dropbox (personal)\ee586th\src\l_puzzle.cpp
+	"l_puzzle.h"
+
+1511901259 source:c:\users\ferhat\dropbox (personal)\ee586th\src\solver.cpp
+	"l_puzzle.h"
+	"solver.h"
+
+1514043381 source:c:\users\ferhat\dropbox (personal)\ee586\code\src\solver.cpp
+	"l_puzzle.h"
+	"solver.h"
+
+1514042527 c:\users\ferhat\dropbox (personal)\ee586\code\include\l_puzzle.h
+	<iostream>
+	<list>
+	<cstring>
+	<cmath>
+	<fstream>
+
+1511897055 c:\users\ferhat\dropbox (personal)\ee586\code\include\solver.h
+	<map>
+	<vector>
+	<list>
+	<queue>
+	<utility>
+	<algorithm>
+	<chrono>
+	<ctime>
+
+1514042966 source:c:\users\ferhat\dropbox (personal)\ee586\code\main.cpp
+	<iostream>
+	"l_puzzle.h"
+	"solver.h"
+
+1514042552 source:c:\users\ferhat\dropbox (personal)\ee586\code\src\l_puzzle.cpp
+	"l_puzzle.h"
+
+1516645252 source:c:\users\ferhat\dropbox (personal)\ee586\code\solver\src\l_puzzle.cpp
+	"l_puzzle.h"
+
+1516645499 c:\users\ferhat\dropbox (personal)\ee586\code\solver\include\l_puzzle.h
+	<iostream>
+	<list>
+	<cstring>
+	<cmath>
+	<fstream>
+
+1516728917 source:c:\users\ferhat\dropbox (personal)\ee586\code\solver\src\solver.cpp
+	"l_puzzle.h"
+	"solver.h"
+
+1516369005 c:\users\ferhat\dropbox (personal)\ee586\code\solver\include\solver.h
+	<map>
+	<vector>
+	<list>
+	<queue>
+	<utility>
+	<algorithm>
+	<chrono>
+	<ctime>
+
+1516641896 source:c:\users\ferhat\dropbox (personal)\ee586\code\solver\main.cpp
+	<iostream>
+	"l_puzzle.h"
+	"solver.h"
+
+1516306562 source:/mnt/STORAGE/Dropbox/EE586/code/solver/main.cpp
+	<iostream>
+	"l_puzzle.h"
+	"solver.h"
+
+1516305849 /mnt/STORAGE/Dropbox/EE586/code/solver/include/l_puzzle.h
+	<iostream>
+	<list>
+	<cstring>
+	<cmath>
+	<fstream>
+
+1516302834 /mnt/STORAGE/Dropbox/EE586/code/solver/include/solver.h
+	<map>
+	<vector>
+	<list>
+	<queue>
+	<utility>
+	<algorithm>
+	<chrono>
+	<ctime>
+
+1516311171 source:/mnt/STORAGE/Dropbox/EE586/code/solver/src/l_puzzle.cpp
+	"l_puzzle.h"
+
+1516313105 source:/mnt/STORAGE/Dropbox/EE586/code/solver/src/solver.cpp
+	"l_puzzle.h"
+	"solver.h"
+
+1516311171 source:c:\users\user\dropbox\ee586\code\solver\src\l_puzzle.cpp
+	"l_puzzle.h"
+
+1516305849 c:\users\user\dropbox\ee586\code\solver\include\l_puzzle.h
+	<iostream>
+	<list>
+	<cstring>
+	<cmath>
+	<fstream>
+
+1516368967 source:c:\users\user\dropbox\ee586\code\solver\src\solver.cpp
+	"l_puzzle.h"
+	"solver.h"
+
+1516369005 c:\users\user\dropbox\ee586\code\solver\include\solver.h
+	<map>
+	<vector>
+	<list>
+	<queue>
+	<utility>
+	<algorithm>
+	<chrono>
+	<ctime>
+
+1516368146 source:c:\users\user\dropbox\ee586\code\solver\main.cpp
+	<iostream>
+	"l_puzzle.h"
+	"solver.h"
+

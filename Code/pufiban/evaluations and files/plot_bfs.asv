@@ -1,0 +1,33 @@
+load('BFS.mat')
+x= [];
+y_mean= [];
+y_min = [];
+y_max = [];
+% same_stepped_values = [];
+prev = 0;
+sum = 0;
+number_of_same_steps = 1;
+local_min = inf;
+local_max = -inf;
+for i=1:length(steps)
+    if(prev~=steps(i))
+        y_mean =[y_mean sum/number_of_same_steps];
+        y_min = [y_min local_min];
+        y_max = [y_max local_max];
+        local_min = inf;
+        local_max = -inf;
+        number_of_same_steps = 1;
+        x = [x steps(i)];
+        prev = steps(i);
+        sum = 0;
+    else
+        number_of_same_steps = number_of_same_steps +1;
+        sum = sum + time(i);
+        if(local_min>time(i))
+            local_min = time(i);
+        end
+        if(local_max<time(i))
+            local_max = time(i);
+        end
+    end
+end
